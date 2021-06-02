@@ -1,0 +1,4 @@
+C:\Users\cecil\source\repos\rysis project\rysis project\x64\Release\rysis project.exe
+C:\Users\cecil\source\rysis project\rysis project\x64\Release\rysis project.exe
+C:\Users\cecil\source\repos\App2\rysis project\rysis project\x64\Release\rysis project.exe
+C:\Users\cecil\source\repos\Cecil Laka Rysis Project\App2\rysis project\rysis project\x64\Release\rysis project.exe
